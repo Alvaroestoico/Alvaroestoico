@@ -1,10 +1,10 @@
-- 👋 Hi, My name is Álvaro
-- 👀 I’m interested in web3 development, NFTs, crypto
-- 🌱 I’m currently learning The Full Stack Path on codecademy.com
-- 💞️ I’m looking to collaborate on web3 projects, people interested like me, work with ether.js and that stuff
-- 📫 You can Contact me by email alvarodelallave11@gmail.com or discord Alvaro | DiviTeam#2096
+<div align="center">
+<h1 align="center">Hi, I`m Álvaro 👋</h1>
+</div>
+<img src="https://i.imgur.com/sS8JglZ.png">
 
-<!---
-Alvaroo02/Alvaroo02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+- 📊 I’m a data analyst passionate about turning data into clear, actionable insights
+- 📚 I also run a social media acoount @unlugarestoico about Stoicism, where I share ideas on mindful and intentional living (100k followers on Facebook, 43k on Instagram, etc...)
+- 🧠 I'm interested in data science, data visualization, Python, SQL, and tools like Power BI
