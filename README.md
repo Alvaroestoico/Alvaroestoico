@@ -8,3 +8,4 @@
 - 📊 I’m a data analyst passionate about turning data into clear, actionable insights
 - 📚 I also run a social media acoount @unlugarestoico about Stoicism, where I share ideas on mindful and intentional living (100k followers on Facebook, 43k on Instagram, etc...)
 - 🧠 I'm interested in data science, data visualization, Python, SQL, and tools like Power BI
+- 📧 You can contact me at alvarodelallave11@gmail.com
